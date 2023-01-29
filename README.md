@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @derikfrost (ASHIN SHIBU) 
 - 👀 I’m interested in Electronics and code
-- 🌱 I’m currently learning Embedded C and flutter
+- 🌱 I’m currently learning C and flutter
 - :e-mail: mail me at ashinshibu85@gmail.com
 
 
