@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @derikfrost (ASHIN SHIBU)<br><br>👀 I’m interested in Electronics and code<br><br>🌱 I’m currently learning C<br><br>📧 mail me at ashinshibu85@gmail.com
+👋 Hi, I’m @derikfrost (ASHIN SHIBU)<br><br>👀 I’m interested in Electronics and code<br><br>🌱 I’m currently learning python<br><br>📧 mail me at ashinshibu85@gmail.com
 
 
 ## 🌐 Socials:
