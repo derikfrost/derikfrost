@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @derikfrost (ASHIN SHIBU)<br><br>👀 I’m interested in Electronics and code<br><br>🌱 I’m currently learning python<br><br>📧 mail me at ashinshibu85@gmail.com
-
+👋 Greetings! I'm @derikfrost, also known as ASHIN SHIBU<br><br>👀 I'm captivated by the world of Electronics and code, where every line holds the promise of innovation.<br><br>🌱 Currently, I'm immersing myself in the dynamic realm of Python, eager to unlock its full potential.<br><br>📧 Feel free to reach out to me at ashinshibu85@gmail.com for any electrifying discussions or collaborations!<br><br>Let's electrify the world with our passion and expertise! ⚡️
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/ashin_8015) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/ashin-shibu-30a657208/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://reddit.com/user/D3rikFr0st) 
